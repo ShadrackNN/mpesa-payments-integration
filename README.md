@@ -42,3 +42,5 @@ This is a demo for Mpes setup. There is another complete POS system available an
 Get in touch for more details: +254734509026
 
 ## Thank you
+
+![Screenshot 2024-07-18 131157](https://github.com/user-attachments/assets/a13061f3-661f-4879-b3f5-b17b1e9528ce)
